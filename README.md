@@ -1,2 +1,0 @@
-# belajar-python
-belajar-python
