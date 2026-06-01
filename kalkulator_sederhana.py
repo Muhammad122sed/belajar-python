@@ -9,7 +9,7 @@ elif operasi == "-":
 elif operasi == "*":
         print ( " hasil " , angka1 * angka2)
 elif operasi == "/":
-        # Di sini diganti pakai angka2, Din!
+
         if angka2 != 0 :
                 print (" hasil " , angka1 / angka2)
         else:
