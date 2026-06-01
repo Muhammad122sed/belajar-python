@@ -7,6 +7,6 @@ if umur >= 60:
 elif umur >= 19:
     print("umur kamu masih muda/dewasa")
 elif umur >= 12:
-    print("umur kamu masih remaja") # Diganti remaja biar makin gaco logikanya!
+    print("umur kamu masih remaja")
 else:
     print("masih bayi/balita")
